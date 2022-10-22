@@ -246,7 +246,7 @@ let fkon = { key:
     itemCount : 999999999999,
     status: 404,
     surface : 404,
-    message: `© HAORI IQ-MD\nSimple WhatsApp Bot`, 
+    message: `© NaNa-MD\nSimple WhatsApp Bot`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/2b669452f7517d2b5097a.jpg')).buffer(),
     }
@@ -322,7 +322,7 @@ let ftt = `📮 Catatan: Perlakukan Bot Secara Baik, Dev Akan Bertindak Tegas Ap
                  
                        「 *廾ΛӨЯI IQ MD ᯤ* 」`
      if (teks == '404') { 
-      return await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/ed6e4421aff4471b172f0.jpg')).buffer(), tksk, ftt, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', haori, { contextInfo: { mentionedJid: conn.parseMention(tksk), externalAdReply :{ 
+      return await conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/ed6e4421aff4471b172f0.jpg')).buffer(), tksk, ftt, 'COMMAND', 'all', 'DONASI', '.donasi', haori, { contextInfo: { mentionedJid: conn.parseMention(tksk), externalAdReply :{ 
      mediaUrl: `${pickRandom([`https://www.facebook.com/Inunime-107082474576049/`,`https://youtu.be/JWHV8lPTzPs`])}`, 
      mediaType: 2, 
      description:  '',  
