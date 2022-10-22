@@ -62,19 +62,19 @@ let fetch = require('node-fetch')
  // Sticker WM 
  global.stiker_wait = '*WAIT! | Mohon Tunggu Sebentar...*' 
  global.packname = 'Buatan Siapa?' 
- global.author = `Buatan Haori` 
- global.wm = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'  
+ global.author = `Buatan Leon` 
+ global.wm = 'NaNa　ＭＤ　🌹　'  
  global.watermark = wm 
- global.linkgc = 'https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID'
-global.link = 'https://youtu.be/0CyJP3EKrf4'
+ global.linkgc = 'https://chat.whatsapp.com/J4gNWQAtkEP3aOBCQInROH'
+global.link = 'https://youtube.com/channel/UCLnDn5I4RPLrkFcKTIsR1-g'
 global.deslink = ''
 global.titlink = 'ＨＡＯＲＩ　ＩＱ　ＭＤ　🌹　'
 global.bodlink = '@zivfurr'
-global.linkig = 'https://instagram.com/not_pilar32'
-global.instagram = 'https://instagram.com/not_pilar32'
+global.linkig = 'https://instagram.com/leon_ofc202'
+global.instagram = 'https://instagram.com/leon_ofc202'
  global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}` 
  global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg' 
- global.github = 'https://github.com/PilarV2' 
+ global.github = 'https://github.com/LeonOfc202' 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text=' 
  global.wait = '_*L O A D I N G*_' 
  global.eror = '_*Server Error*_' 
